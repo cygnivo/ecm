@@ -1,0 +1,1 @@
+* Similar to UPLOAD, reads based on docId
