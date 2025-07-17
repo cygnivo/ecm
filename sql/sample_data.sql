@@ -1,0 +1,3 @@
+
+INSERT INTO CONTREP (ORGID, CONTREP_ID, REP_DESC, STORAGE_TYPE, STORAGE_LOCATION, ACTIVE)
+VALUES ('ORG1', 'REPO1', 'Test Repository (FS)', 'filesystem', '/data/storage/org1_repo1', TRUE);
